@@ -1,9 +1,5 @@
-
-
 ## CI
-![Build Status](https://github.com/kuchartI/QuizApp/actions/workflows/quizzes.yml/badge.svg?branch=master)
-![Build Status](https://github.com/kuchartI/QuizApp/actions/workflows/quizzes.yml/badge.svg?branch=develop)
-
+![Build Status](https://github.com/kuchartI/QuizApp/actions/workflows/quizzes.yml/badge.svg?branch=develop&branch=master)
 ## About
 A simple web service was created that returns 
 you a random quiz from a large pool inside it,
