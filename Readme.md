@@ -1,7 +1,5 @@
 ## CI
-#### master
 ![Build Status](https://github.com/kuchartI/QuizApp/actions/workflows/quizzes.yml/badge.svg?branch=master)
-#### develop
 ![Build Status](https://github.com/kuchartI/QuizApp/actions/workflows/quizzes.yml/badge.svg?branch=develop)
 
 ## About
